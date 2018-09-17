@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Questtion1">Q.1. What is the capital of India? </string>
+    <string name="Question2">Q.2. Who is the prime minister of India?</string>
+    <string name="Question3">Q.3. What is the value of x in the following equation : x^2-5x+6=0 ? (Note :There can be more than one answer)</string>
+    <string name="Question4">Q.4.What is the name of Spider Man?</string>
+</resources>
